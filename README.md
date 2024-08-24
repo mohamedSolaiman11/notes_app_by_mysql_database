@@ -1,16 +1,6 @@
-# notes_app_by_mysql_database
-
-write your notes here.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (837)](https://github.com/user-attachments/assets/80cb357b-b55b-4a27-aeab-a5d28c386b9f)
+![Screenshot 2024-08-25 021627](https://github.com/user-attachments/assets/09b07c0a-0983-475a-bc3f-9cc3187eeb0e)
+![Screenshot (835)](https://github.com/user-attachments/assets/313796ea-7420-4f33-be95-cf8ebf7e1972)
+![Screenshot 2024-08-25 011711](https://github.com/user-attachments/assets/fb40fdb3-50f6-4b5b-94d1-cb801faba437)
+![Screenshot (834)](https://github.com/user-attachments/assets/be9ce813-5c30-41c1-8240-80591c21b48f)
+![Screenshot (836)](https://github.com/user-attachments/assets/f08bbfca-dae3-40a3-aaa1-1264dd22f3d0)
